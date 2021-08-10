@@ -1,4 +1,3 @@
-#from reviews.views import review
 from django import forms 
 
 class ReviewForm(forms.Form):
